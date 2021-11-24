@@ -37,7 +37,7 @@ header {
 .sub-container2 {
     display: flex;
     flex-direction: column;
-    gap: 2vw;
+    gap: 1.5vw;
     width: 40%;
 }
 
@@ -59,8 +59,8 @@ h1 {
 }
 
 button {
-    width: 50%;
-    padding: 1.5vw;
+    width: 40%;
+    padding: 1.1vw;
     border-radius: 30px;
     color: hsl(257, 40%, 49%);
     background-color: white;
